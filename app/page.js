@@ -20,6 +20,7 @@ import Image from "next/image";
 import { features } from "@/data/features";
 import { testimonial } from "@/data/testimonial";
 import { faqs } from "@/data/faqs";
+import DecorativeChart from "./_components/decorative-chart";
 
 export default function LandingPage() {
   return (
@@ -107,8 +108,8 @@ export default function LandingPage() {
                     Track your growth, identify weak points, and get actionable insights to improve your interview performance.
                   </p>
                 </div>
-                <div className="flex-1 w-full h-40 bg-white/5 rounded-xl border border-white/5 flex items-center justify-center">
-                  <span className="text-muted-foreground font-mono text-sm">[ Analytics Graph Preview ]</span>
+                <div className="flex-1 w-full h-48 bg-white/5 rounded-xl border border-white/5 overflow-hidden group-hover:border-cyan-500/20 transition-colors shadow-2xl">
+                  <DecorativeChart />
                 </div>
               </CardContent>
             </Card>
