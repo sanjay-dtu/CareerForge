@@ -38,7 +38,7 @@ export default function LandingPage() {
               Everything you need to <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Stand Out</span>
             </h2>
             <p className="text-muted-foreground text-lg">
-              We've built a comprehensive suite of tools designed to get you hired faster.
+              We&apos;ve built a comprehensive suite of tools designed to get you hired faster.
             </p>
           </div>
           
@@ -52,7 +52,7 @@ export default function LandingPage() {
                   </div>
                   <h3 className="text-3xl font-bold mb-4">ATS-Optimized Resumes</h3>
                   <p className="text-muted-foreground text-lg max-w-md">
-                    Stop getting rejected by robots. Our AI builds resumes that pass ATS scans and catch recruiters' eyes.
+                    Stop getting rejected by robots. Our AI builds resumes that pass ATS scans and catch recruiters&apos; eyes.
                   </p>
                 </div>
                 <div className="mt-8 pt-8 border-t border-white/5">
