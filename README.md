@@ -8,7 +8,7 @@ Built using Next.js 15, React 19, Prisma ORM, Clerk Auth, Inngest, Neon PostgreS
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** [https://careerforge-sanjay.vercel.app](https://careerforge-sanjay.vercel.app)
+🔗 **Live Application:** [https://careerforge-3hxd.onrender.com](https://careerforge-3hxd.onrender.com)
 
 ---
 
@@ -214,10 +214,10 @@ Inngest Local Panel: http://localhost:8288
 ---
 
 ## ☁️ Deployment
-The application is deployed on Vercel with Inngest hooks set up to coordinate background cron events. Neon serverless postgres operates as the backend database layer.
+The application is deployed on Render with Inngest hooks set up to coordinate background cron events. Neon serverless postgres operates as the backend database layer.
 
 Live URL
-[https://careerforge-sanjay.vercel.app](https://careerforge-sanjay.vercel.app)
+[https://careerforge-3hxd.onrender.com](https://careerforge-3hxd.onrender.com)
 
 ---
 
